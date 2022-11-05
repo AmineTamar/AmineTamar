@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmineTamar
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Html, Css, Javascript, React.js, Node.js ...
+- 🌱 I’m currently interested in learning Html, Css, Javascript, React.js, Node.js ...
 -..
 - 📫 You can reach me at aminetamar95@gmail.com
 
