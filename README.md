@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmineTamar
+- 👋 Hi, I’m Amine Tamar
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently interested in learning Html, Css, Javascript, Bootstrap5/Tailwind, React.js, Node.js...
 - Check out My Portfolio Website at https://aminetamar.github.io/ 
