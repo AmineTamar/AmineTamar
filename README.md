@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amine Tamar
 - 👀 I love Web development 
 - 🌱 I’m currently learning Html, CSS, Javascript, Bootstrap5/Tailwind, and Vue.js...
-- Check out My Portfolio Website at https://aminetamar.github.io/ 
+
 -..
 - 📫 You can reach me at aminetamar95@gmail.com
 
