@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amine Tamar
 - 👀 I love Web development 
-- 🌱 Always learning and extending my Stack =>  Html, CSS, Javascript, Bootstrap5/Tailwind, SASS, VUE.js, jQuery, PHP MYSQL , Laravel ... 
+- 🌱 Always learning and extending my Stack =>  Html, CSS, Javascript, Bootstrap5/Tailwind, SASS, VUE.js, jQuery, PHP MYSQL, Laravel ... 
 
 -..
 - 📫 You can reach me at aminetamar95@gmail.com
