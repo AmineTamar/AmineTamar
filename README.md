@@ -2,7 +2,7 @@
 - 👀 I love Web development 
 - 🌱 Always learning and extending my Stack =>  Html, CSS, Javascript, Bootstrap5/Tailwind, SASS,jQuery, PHP
 
--..
+
 - 📫 You can reach me at aminetamar95@gmail.com
 
 <!---
